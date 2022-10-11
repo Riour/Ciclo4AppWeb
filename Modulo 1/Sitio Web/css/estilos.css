@@ -1,0 +1,17 @@
+body
+{
+    background-image: url('../imagenes/Fondo_Servision.jpg');
+}
+
+.formato_final
+{
+    position: absolute;
+    margin-top: 100px;
+    color: white;
+}
+
+.formato{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
